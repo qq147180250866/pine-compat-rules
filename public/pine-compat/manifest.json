@@ -1,0 +1,15 @@
+{
+    "schema":  1,
+    "version":  "2026.09.15-084153",
+    "generatedAt":  "2026-09-15T08:41:53Z",
+    "rulePacks":  [
+                      {
+                          "url":  "https://raw.githubusercontent.com/QQ147180250866/pine-compat-rules/main/public/pine-compat/rules-custom.json",
+                          "sha256":  "e88f74b1026bd89df3d3b1133c99e3831d82ab80dbed544db15bd876cceab404"
+                      },
+                      {
+                          "url":  "https://raw.githubusercontent.com/QQ147180250866/pine-compat-rules/main/public/pine-compat/rules-v72.json",
+                          "sha256":  "92e5855ea17539861108ccc87f72afd7d51c23ae29fe20d6e12ed633d631b6d9"
+                      }
+                  ]
+}

@@ -1,0 +1,7 @@
+/pine-compat/manifest.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: no-store, max-age=0
+
+/pine-compat/rules-*.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
